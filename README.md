@@ -1,10 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Albert Shaymardanov <br />
 
-BackEnd developer I've been learning 1 year programming* 🌍 <br /> I'm based in Russia/Ufa* ✉️ <br /> You can contact me at [accretiondiskthat@gmail.com](mailto:accretiondiskthat@gmail.com)* 🧠 <br /> I'm learning Spring* 🤝 <br /> I'm open to collaborating on anything
+BackEnd developer I've been learning 1 year programming* <br /> 
+🌍 I'm based in Russia/Ufa* <br />
+✉️ You can contact me at [accretiondiskthat@gmail.com](mailto:accretiondiskthat@gmail.com)* <br />
+🧠 I'm learning Spring* <br /> 
+🤝 I'm open to collaborating on anything
 
 <a href="https://www.github.com/Fostix" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Fostix?logo=github&style=for-the-badge&color=10b981&labelColor=ffffff" /></a><br />
-<a href="https://www.twitch.tv/abatur982" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/abatur982?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=ffffff&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/github/followers/Fostix?logo=github&style=for-the-badge&color=10b981&labelColor=ffffff" /></a><a href="https://www.twitch.tv/abatur982" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/abatur982?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=ffffff&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
