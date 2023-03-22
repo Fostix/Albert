@@ -1,5 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Albert Shaymardanov <br />
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Test;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
 BackEnd developer I've been learning 1 year programming* <br /> 
 🌍 I'm based in Russia/Ufa* <br />
 ✉️ You can contact me at [accretiondiskthat@gmail.com](mailto:accretiondiskthat@gmail.com)* <br />
