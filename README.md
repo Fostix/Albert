@@ -6,7 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 BackEnd developer I've been learning 1 year programming* <br /> 
-🌍 I'm based in Russia/Ufa* <br />
 ✉️ You can contact me at [accretiondiskthat@gmail.com](mailto:accretiondiskthat@gmail.com)* <br />
 🧠 I'm learning Spring* <br /> 
 🤝 I'm open to collaborating on anything
