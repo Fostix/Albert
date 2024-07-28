@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!;My name's Albert!;Test;Repo+for+fun!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!;My name's Albert!;Test;Repo+for+fun!;Make+your+readme+stand+out!&BigBlue+Terminal&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 BackEnd developer I've been learning 1 year programming* <br /> 
